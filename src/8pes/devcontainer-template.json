@@ -1,6 +1,6 @@
 {
   "id": "8pes",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "name": "8pes devcontainer",
   "description": "The official 8pes template devcontainer",
   "documentationURL": "https://github.com/FredeAlexandre/devcontainer-templates/tree/main/src/8pes",
