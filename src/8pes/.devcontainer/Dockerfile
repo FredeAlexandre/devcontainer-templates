@@ -38,7 +38,7 @@ RUN curl -sS https://starship.rs/install.sh | sh -s -- -y
 RUN deluser --remove-home ubuntu
 
 # Create the user
-ARG USERNAME=${templateOption:installMaven}
+ARG USERNAME=${templateOption:username}
 ARG PASSWORD=kingkong
 
 ENV HOME /workspaces
